@@ -1,3 +1,3 @@
-# I'm WolrdWidePixel.
+# I'm WorldWidePixel.
 
 ### I make stuff. On the internet.
