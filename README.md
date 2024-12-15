@@ -3,7 +3,7 @@
 ### I make stuff. On the internet.
 
 Seems you found my GitHub?
-Odd. Are you stalking me or something?
+Not really that much interesting stuff here, but that's besides the point.
 Anyway, I hope you enjoy all of the crap I've cobbled together <3
 
 ### Links & Stuff:
