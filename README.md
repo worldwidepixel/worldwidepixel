@@ -1,6 +1,6 @@
 # I'm WorldWidePixel.
 
-### I make stuff. On the internet.
+### I make things. On the Internet.
 
 Seems you found my GitHub?
 Not really that much interesting stuff here, but that's besides the point.
