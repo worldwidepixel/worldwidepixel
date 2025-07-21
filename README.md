@@ -18,7 +18,8 @@ interface WorldWidePixel extends Human {
     languages: ["TypeScript", "Java", "English"];
 
     // GPG
-    gpg: "Don't even bother";
+    gpg: "D047858E8DDE33D2B17FA853EF0A9914F411FD57";
+    worth_using: false;
 }
 ```
 
