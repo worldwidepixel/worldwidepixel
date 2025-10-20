@@ -10,7 +10,7 @@ interface WorldWidePixel extends Human {
 
     // Art
     mediums: ["Music", "Pixel Art"];
-    work: ["Abysm", "ModFest Toybox, 1.21, & BlanketCon '25", "366", "Joy", "Wildfloser"];
+    work: ["Abysm", "ModFest Toybox, 1.21, & BlanketCon '25", "366", "Joy", "Wildflower"];
 
     // Programming
     projects: ["Badger", "Hollow", "Snapper"];
