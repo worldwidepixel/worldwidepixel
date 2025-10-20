@@ -6,7 +6,7 @@
 interface WorldWidePixel extends Human {
     // Basic Information
     country: "Canada";
-    timezone: "PST (UTC-8)";
+    timezone: "Pacific Time";
 
     // Art
     mediums: ["Music", "Pixel Art"];
