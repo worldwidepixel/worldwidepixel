@@ -7,11 +7,10 @@ interface WorldWidePixel extends Human {
     // Basic Information
     country: "Canada";
     timezone: "PST (UTC-8)";
-    things_you_think_should_be_here: "1984'd";
 
     // Art
     mediums: ["Music", "Pixel Art"];
-    releases: ["Wildflower", "Flare", "Joy", "366", "ModFest 1.21 & BlanketCon '25"];
+    work: ["Abysm", "ModFest Toybox, 1.21, & BlanketCon '25", "366", "Joy", "Wildfloser"];
 
     // Programming
     projects: ["Badger", "Hollow", "Snapper"];
@@ -29,5 +28,5 @@ Anyway, I hope you enjoy all of the crap I've cobbled together <3
 
 ### Links & Stuff:
 [Website](https://worldwidepixel.ca)
-[Bandcamp](https://worldwidepixel.bandcamp.com)
-[YouTube](https://youtube.com/@worldwidepixel)
+[Bandcamp](https://lynndova.bandcamp.com)
+[YouTube](https://youtube.com/@lynndova)
