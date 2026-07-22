@@ -2,24 +2,30 @@
 
 ### I make things. On the Internet.
 
-```typescript
-interface WorldWidePixel extends Human {
-    // Basic Information
-    country: "Canada";
-    timezone: "Pacific Time";
-
+```java
+public Human worldwidepixel = new HumanBuilder("Lynn")
+    // Abstract
+    .country("Canada 🍁")
+    .timezone("UTC-7")
     // Art
-    mediums: ["Music", "Pixel Art"];
-    work: ["Abysm", "ModFest Toybox, 1.21, & BlanketCon '25", "366", "Joy", "Wildflower"];
-
+    .addMedium("Music")
+    .addMedium("Pixel Art")
+    .addMedium("Drawing & Painting, every once and a while")
+    .addPortfolio("Abysm")
+    .addPortfolio("ModFest")
+    .addPortfolio("366")
+    .addPortfolio("Joy")
+    .addPortfolio("Wildflower")
     // Programming
-    projects: ["Badger", "Hollow", "Snapper"];
-    languages: ["TypeScript", "Java", "English"];
-
+    .addProject("Badger")
+    .addProject("Snapper")
+    .addLanguage("TypeScript")
+    .addLanguage("Java")
+    .addLanguage("English")
     // GPG
-    gpg: "D047858E8DDE33D2B17FA853EF0A9914F411FD57";
-    worth_using: false;
-}
+    .gpg("D047858E8DDE33D2B17FA853EF0A9914F411FD57")
+    .gpgWorthUsing(false)
+    .build();
 ```
 
 Seems you found my GitHub?
